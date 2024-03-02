@@ -7,7 +7,7 @@ System.out.println("hi we are committing 1stfile");
 
 System.out.println("hi goodmorning");
 int a =10;
-int b=21;
+int b=30;
 int c= a+b;
 int d =b-a;
 System.out.println(c);
