@@ -21,7 +21,7 @@ System.out.println("we are commiting code to git reposiry");
 	
 		public void m1() {
 			
-			
+			System.out.println("pulling the  code from git repo");
 			
 			System.out.println("pushing code to gitrepositiry");
 		}
