@@ -21,10 +21,7 @@ System.out.println("we are commiting code to git reposiry");
 	
 		public void m1() {
 			
-			int x=40;
-			int y =20;
-			int z=x-y;
-			System.out.println(z);		
+			
 			
 			System.out.println("pushing code to gitrepositiry");
 		}
