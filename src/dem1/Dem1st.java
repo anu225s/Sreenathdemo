@@ -6,8 +6,8 @@ public class Dem1st {
 System.out.println("hi we are committing 1stfile");
 
 System.out.println("hi good afternoon react js clasess");
-int a =10;
-int b=40;
+int a =100;
+int b=150;
 int c= a+b;
 int d =b-a;
 System.out.println(c);
@@ -29,7 +29,7 @@ System.out.println("we are commiting code to git reposiry");
 public void m2() {
 			
 			int x=890;
-			int y =340;
+			int y =140;
 			int z=x-y;
 			System.out.println(z);	
 		
