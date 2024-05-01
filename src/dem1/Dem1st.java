@@ -30,7 +30,7 @@ System.out.println("we are commiting code to git reposiry");
 			
 			System.out.println("pushing code to gitrepositiry");
 
-			int a =10
+			int a =10;
 				int b=20;
 
 			int c= a+b;
