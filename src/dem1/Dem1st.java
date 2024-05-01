@@ -6,8 +6,8 @@ public class Dem1st {
 System.out.println("hi we are committing 1stfile");
 
 System.out.println("hi good afternoon react js clasess");
-int a =100;
-int b=151;
+int a =30;
+int b=10;
 int c= a+b;
 int d =b-a;
 System.out.println(c);
