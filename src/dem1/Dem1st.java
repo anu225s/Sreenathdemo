@@ -26,6 +26,12 @@ System.out.println("we are commiting code to git reposiry");
 			System.out.println("pushing code to gitrepositiry");
 		}
 		
-
+		public void m2() {
+			
+			System.out.println("newly added code today");
+			
+			
+			
+}
 }
 }
