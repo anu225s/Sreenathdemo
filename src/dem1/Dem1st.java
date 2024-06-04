@@ -10,8 +10,12 @@ int a =50;
 int b=12;
 int c= a+b;
 int d =b-a;
+
+		int s=a*b;
+		
 System.out.println(c);
 System.out.println(d);
+		System.out.println(s);
 
 System.out.println("we are commiting code to git reposiry");
 
