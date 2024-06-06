@@ -25,17 +25,17 @@ System.out.println("we are commiting code to git reposiry");
 	
 		public void m1() {
 			
-			System.out.println("pulling the  code from git repo");
+			System.out.println("pulling the  code from git repo modification ");
+			
+			System.out.println("pushing code to gitrepositiry -updated file ");
+
+
+			System.out.println("pulling the  code from git repo -changes");
 			
 			System.out.println("pushing code to gitrepositiry");
 
-
-			System.out.println("pulling the  code from git repo");
-			
-			System.out.println("pushing code to gitrepositiry");
-
-			int a =10;
-				int b=20;
+			int a =30;
+				int b=50;
 
 			int c= a+b;
 			System.out.println(c);
