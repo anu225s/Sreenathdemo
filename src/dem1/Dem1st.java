@@ -7,7 +7,7 @@ System.out.println("hi we are committing 1stfile");
 
 System.out.println("hi good afternoon react js clasess");
 int a =50;
-int b=19;
+int b=20;
 int c= a+b;
 int d =b-a;
 
